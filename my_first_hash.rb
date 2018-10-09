@@ -1,5 +1,5 @@
 def my_hash
-this_a_hash={"name" => "Dumbledores Army" "Abbreviation" => "DA"}
+this_a_hash={"name" => "Dumbledores Army", "Abbreviation" => "DA"}
 this_a_hash
 end
 
